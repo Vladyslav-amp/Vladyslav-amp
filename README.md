@@ -8,7 +8,7 @@ I\`m front-end developer who loves React. I also write clean and readeble code.
 
 * 🌍  I'm based in Gdansk
 * ✉️  You can contact me at [lutsyk710@gmail.com](mailto:lutsyk710@gmail.com)
-* 🧠  I'm learning React (advanced), React Native, Node.js
+* 🧠  Currently I'm learning React (advanced), React Native, Node.js, TypeScript.
 
 ### Skills
 
